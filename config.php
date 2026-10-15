@@ -1,9 +1,9 @@
 <?php
 // Estas variáveis serão preenchidas com os dados do seu AWS RDS depois
-$host = 'ENDERECO_DO_SEU_RDS.amazonaws.com'; 
+$host = 'database-2.c4dqgokcsz7g.us-east-1.rds.amazonaws.com'; 
 $db = 'postgres';
 $user = 'postgres';
-$pass = 'sua_senha_aqui';
+$pass = '1304051227';
 $port = '5432';
 
 try {
